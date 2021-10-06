@@ -1,0 +1,2 @@
+INFO    2021-10-06 13:21:41,059 [main] com.automationpractice.DriverBase  - Config properties file loaded
+INFO    2021-10-06 13:21:55,508 [main] com.automationpractice.DriverBase  - Quit Driver

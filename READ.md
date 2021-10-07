@@ -21,7 +21,7 @@ To run the tests locally with
 - Cucumber feature file is under `/resources/features` folder
 - Test results report is under`/reports` folder
 - `config.properties` are defined under `src/test/resources/properties` folder.
-  - Set browser (firefox)
+- default browser is firefox
 
 ## Running tests ##
 

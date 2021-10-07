@@ -1,4 +1,4 @@
-## testcode
+## TestCode
 This project works on the  http://automationpractice.com/index.php and using Java, automated test/s to verify
 that summer dresses can be added to the cart and it’s possible to proceed to the Sign in section.
 
